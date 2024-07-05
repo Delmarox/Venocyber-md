@@ -47,7 +47,7 @@ module.exports = {
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "𝘨𝘳𝘦𝘢𝘵 𝘥𝘢𝘺 | 𝐕𝐄𝐍𝐎𝐂𝐘𝐁𝐄𝐑 𝐌𝐃",
-  author: process.env.PACK_AUTHER || "VENOCYBER",
+  author: process.env.PACK_AUTHER || "k29",
   packname: process.env.PACK_NAME || "♥️",
   botname: process.env.BOT_NAME || "k29promax",
   ownername: process.env.OWNER_NAME || "k29promax",
